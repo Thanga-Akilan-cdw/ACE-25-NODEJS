@@ -1,0 +1,37 @@
+[
+  {
+    "color": "azure 1 (azure)",
+    "code": {
+      "hex": "#F0FFFF"
+    },
+    "id": 159
+  },
+  {
+    "color": "turquoise",
+    "code": {
+      "hex": "#40E0D0"
+    },
+    "id": 184
+  },
+  {
+    "color": "lightblue 4",
+    "code": {
+      "hex": "#68838B"
+    },
+    "id": 147
+  },
+  {
+    "color": "darkslategray",
+    "code": {
+      "hex": "#2F4F4F"
+    },
+    "id": 171
+  },
+  {
+    "color": "azure 3",
+    "code": {
+      "hex": "#C1CDCD"
+    },
+    "id": 161
+  }
+]

@@ -1,53 +1,55 @@
-const fs = require('fs');
-
-let color_palette = [];
-
+const fs = require('fs').promises; 
 
 // Generate random colors 
-const getRandomColors = (count) => {
-     const randomized_color_palette = [];
-     for(let i=0; i<count;i++){
-          randomized_color_palette.push(color_palette[Math.floor(Math.random() * color_palette.length)]);
-     }
-     return randomized_color_palette;
+const getRandomColors = (count, color_palette) => {
+    const randomized_color_palette = [];
+    for (let i = 0; i < count; i++) {
+        randomized_color_palette.push(
+            color_palette[Math.floor(Math.random() * color_palette.length)]
+        );
+    }
+    return randomized_color_palette;
 }
 
-
-// read file 
-const readFile = (fileName)=> {
-     return (JSON.parse( fs.readFileSync(fileName , (err)=>{
-          console.log(err);
-     })));
+// Read file
+const readFile = async (fileName) => {
+    try {
+        const fileData = await fs.readFile(fileName, 'utf8');
+        return JSON.parse(fileData);
+    } catch (error) {
+        console.log("Error reading file:", error);
+        return [];
+    }
 }
 
-//write file
-const writeFile = (filename, data) => {
-     fs.writeFileSync( filename, JSON.stringify(data));
+// Write file
+const writeFile = async (filename, data) => {
+    try {
+        await fs.writeFile(filename, JSON.stringify(data, null, 2));
+    } catch (error) {
+        console.log("Error writing file:", error);
+    }
 }
 
-//Display Color array
-
+// Display color array 
 const display = (outputData) => {
-     for(const [index ,color] of outputData.entries()){
-          console.log(`${index+1} . ${color.id} - ${color.color} -- ${color.code.hex}`)
-     }
+    for (const [index, color] of outputData.entries()) {
+        console.log(`${index + 1}. ${color.id} - ${color.color} -- ${color.code.hex}`);
+    }
 }
 
+const start = async () => {
+    const color_palette = await readFile('color_ palette.json');
 
+    const randomColors = getRandomColors(5, color_palette);
 
-const start = () => {
+    await writeFile('randomized_color_palette.json', randomColors); 
 
-     color_palette = readFile('color_ palette.json');
-     
-     const randomColors = getRandomColors(5);
+    const outputData = await readFile('randomized_color_palette.json'); 
 
-     writeFile('randomied_color_palette.json', randomColors);
+    console.log(outputData);
 
-     const outputData = readFile('randomied_color_palette.json');
-
-     display(outputData);
-
+    // display(outputData);
 }
 
 start();
-
