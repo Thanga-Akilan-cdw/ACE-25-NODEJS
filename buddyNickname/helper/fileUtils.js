@@ -1,6 +1,6 @@
 import { writeFile, readFile, appendFile } from 'fs/promises';
 
-
+// Read and return the file data
 async function readFileData(fileName){
     try {
         const fileData = await readFile(fileName);
@@ -12,6 +12,7 @@ async function readFileData(fileName){
     }
 }
 
+// Write over the file 
 async function writeToFile(fileName, data){
     try{
         await writeFile(fileName,JSON.stringify(data));
@@ -21,6 +22,7 @@ async function writeToFile(fileName, data){
     }
 }
 
+// Append a json to the end of file
 async function appendToFile(fileName, data){
     try{
        const unParsed = await readFile(fileName);
