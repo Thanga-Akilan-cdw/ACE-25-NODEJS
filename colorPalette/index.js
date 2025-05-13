@@ -1,14 +1,15 @@
 const fs = require('fs');
 
 let color_palette = [];
-const randomized_color_palette = [];
 
 
 // Generate random colors 
 const getRandomColors = (count) => {
+     const randomized_color_palette = [];
      for(let i=0; i<count;i++){
           randomized_color_palette.push(color_palette[Math.floor(Math.random() * color_palette.length)]);
      }
+     return randomized_color_palette;
 }
 
 
@@ -24,18 +25,27 @@ const writeFile = (filename, data) => {
      fs.writeFileSync( filename, JSON.stringify(data));
 }
 
+//Display Color array
 
-const start = async () => {
+const display = (outputData) => {
+     for(const [index ,color] of outputData.entries()){
+          console.log(`${index+1} . ${color.id} - ${color.color} -- ${color.code.hex}`)
+     }
+}
+
+
+
+const start = () => {
 
      color_palette = readFile('color_ palette.json');
      
-     getRandomColors(5);
+     const randomColors = getRandomColors(5);
 
-     writeFile('randomied_color_palette.json',randomized_color_palette);
+     writeFile('randomied_color_palette.json', randomColors);
 
      const outputData = readFile('randomied_color_palette.json');
 
-     console.log(outputData)
+     display(outputData);
 
 }
 

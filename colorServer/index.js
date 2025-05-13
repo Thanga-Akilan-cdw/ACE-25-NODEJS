@@ -1,25 +1,31 @@
 const http = require('http');
-const fs = require('fs');
-const colorPalette = require('./color_palette.json')
+const fs = require('fs').promises;
 
 // Generate Random color Palette
-const generateRandomColors = (count) => {
-    let color_palette = [];
-    const randomized_color_palette = [];
+const generateRandomColors = async (count) => {
+    try {
+        const data = await fs.readFile('color_palette.json', 'utf8');
+        const color_palette = JSON.parse(data);
+        const randomized_color_palette = [];
 
-    color_palette = JSON.parse( fs.readFileSync('color_palette.json' , (err)=>{
-        console.log(err);  }));
+        for (let i = 0; i < count; i++) {
+            randomized_color_palette.push(
+                color_palette[Math.floor(Math.random() * color_palette.length)]
+            );
+        }
 
-    for(let i=0; i<count;i++){
-        randomized_color_palette.push(color_palette[Math.floor(Math.random() * color_palette.length)]);
+        return JSON.stringify(randomized_color_palette);
+    } catch (err) {
+        console.error('Error reading file:', err);
+        return JSON.stringify([]); 
     }
-    return JSON.stringify(randomized_color_palette);
-}
+};
 
 // Http server to serve the request
-const server = http.createServer(function (req, res) {
+const server = http.createServer(async (req, res) => {
+    const colors = await generateRandomColors(5);
     res.writeHead(200, { 'Content-Type': 'text/html' });
-    res.end(generateRandomColors(5));
+    res.end(colors);
 });
 
 // Server listening at port 3000
