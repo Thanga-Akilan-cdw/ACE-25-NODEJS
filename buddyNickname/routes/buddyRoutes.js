@@ -2,13 +2,14 @@ import express from "express"
 
 const router  = express.Router();
 
-import { getAllBuddiesController, getBuddyController, createBuddyController, updateBuddyController, deleteBuddyController } from "../controller/buddyController.js";
+import { getAllBuddiesController, getBuddyController, getBuddyByNameController, createBuddyController, updateBuddyController, deleteBuddyController } from "../controller/buddyController.js";
 
 // Route to get all Buddies 
 router.get('/', getAllBuddiesController);
 
 //Route to get a particular buddy
 router.get('/id/:employeeID',getBuddyController)
+
 router.get('/name/:name', getBuddyByNameController)
 
 //Route to create a new buddy

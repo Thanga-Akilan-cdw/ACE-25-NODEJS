@@ -12,7 +12,6 @@ app.use(express.json());
 // Buddies Routes
 app.use('/buddies',buddyRouter)
 
-
 // App listening and startup function
 app.listen(PORT, ()=>{
     writeToFile("cdw_ace23_buddies.json",[]);
