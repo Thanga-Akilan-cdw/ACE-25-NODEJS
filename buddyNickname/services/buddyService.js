@@ -1,12 +1,14 @@
 
 import { appendToFile, readFileData ,writeToFile } from "../helper/fileUtils.js";
 import { ValidateBuddy } from "../helper/validateBuddy.js";
+import { logger } from "../utils/logger.js";
 
 const fileName = 'cdw_ace23_buddies.json';
 
 // Get all buddy
 const getAllBuddies = async () => {
     const fileData = await readFileData(fileName);
+    logger.info(`Fetched ${fileData.length} Employees' details`)
     return fileData;
 }
 
@@ -15,8 +17,10 @@ const getBuddy = async (employeeID) => {
     const buddies = await readFileData(fileName);
     const buddy = (buddies) ? buddies.find(buddy => buddy.employeeID == employeeID):null;
     if(!buddy){
+        logger.warn(`Employee with ID ${employeeID} does not exist`);
         throw new Error("Employee with the ID does not exist");
     }
+    logger.info(`Fetched Employee ${employeeID} details`)
     return buddy;
 }
 
@@ -24,6 +28,11 @@ const getBuddy = async (employeeID) => {
 const getBuddyByName = async (name) => {
     const buddies = await readFileData(fileName);
     const buddy = (buddies) ? buddies.find(buddy => buddy.name == name):{};
+    if(!buddy){
+        logger.warn(`Employee with Name ${name} does not exist`);
+        throw new Error("Employee with the Name does not exist");
+    }
+    logger.info(`Fetched EMployee ${name} details`);
     return buddy;
 }
 
@@ -33,11 +42,14 @@ const createBuddy = async (employee) => {
         const buddies = await readFileData(fileName);
         if(!buddies.find(buddy => buddy.employeeID == employee.employeeID)){
             await appendToFile(fileName, employee);
+            logger.info(`New Employee created with ID ${employee.employeeID}`);
             return {success: true};
         }else{
+            logger.warn(`Employee ID ${employeeID} exists already`)
             return { success: false, message: "Employee ID already exists"}
         }
     }else{
+        logger.warn("Some details for Employee missing");
         return {success: false, message: "Provide all required details"}
     }
 
@@ -52,13 +64,16 @@ const updateBuddy = async (employeeID, data) => {
         for (let property in data) {
             if(Object.keys(buddy).includes(property)){
                 buddy[property] = data[property];
+                logger.info(`Updated ${property} of ${employeeID}`)
             }else{
+                logger.warn("Invalid property specified")
                 throw new Error("Invalid Property specified");
             }
         }
         // Write back the entire updated array
         await writeToFile(fileName, buddies);
     } else {
+        logger.warn(`Employee with ID ${employeeID} not found`)
         throw new Error("Employee not found");
     }
 }
@@ -72,6 +87,7 @@ const deleteBuddy = async (employeeID) => {
     );
 
     if (!exists) {
+        logger.warn(`Employee with ID ${employeeID} not found`)
         throw new Error("Employee not found");
     }
 
@@ -80,6 +96,7 @@ const deleteBuddy = async (employeeID) => {
         (buddy) => String(buddy.employeeID) !== String(employeeID)
     );
     await writeToFile(fileName, remainingBuddies);
+    logger.info(`EMployee with ID ${employeeID} removed`)
 
 }
 
