@@ -12,7 +12,7 @@ jest.unstable_mockModule('../../services/taskServices.js',()=>({
     sortTasks: jest.fn()
 }));
 
-const { createTask, getTask, updateTask } = await import("../../services/taskServices.js")
+const { createTask, getTask, updateTask, deleteTask } = await import("../../services/taskServices.js")
 
 const data = {
     body: {
@@ -107,6 +107,7 @@ describe('GET /:taskID',  ()=>{
 
         expect(res.statusCode).toBe(200);
     })
+    
 
 })
 
@@ -131,6 +132,7 @@ describe('DELETE /:taskID', ()=>{
         const next = jest.fn();
 
         await deleteTaskController(req,res,next);
+        
         expect(res.statusCode).toBe(200);
         
     })

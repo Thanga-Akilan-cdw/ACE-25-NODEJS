@@ -1,4 +1,4 @@
-import { jest } from "@jest/globals"
+import { beforeEach, jest } from "@jest/globals"
 import request from 'supertest';
 import express from 'express';
 import taskRouter from '../../routers/task.route.js';
@@ -43,17 +43,21 @@ const data = {
 
 
 describe('TASK ROUTES', ()=>{
+    beforeEach(()=>{
+        jest.clearAllMocks();
+    })
     describe('POST /', ()=>{
         it('allow only if the user is authenticated', async()=>{
 
-            createTaskController.mockResolvedValue((req, res) => {
-                res.status(201).send("task created success");
+            createTaskController.mockResolvedValue((req, res, next) => {
+                res.status(200).send("task created success");
             });
 
             const response = await request(app)
             .post('/tasks')
             .set('x-auth-token', authToken)
             .send(data.body);
+
             expect(response.statusCode).toBe(201);
         })
     })
@@ -73,5 +77,20 @@ describe('TASK ROUTES', ()=>{
             expect(response.statusCode).toBe(200);
         })
     })
+    // describe('GET /:taskID', ()=>{
+    //     it('allow only if the user is authenticated', async()=>{
+
+    //         // getTaskController.mockResolvedValue((req, res) => {
+    //         //     res.status(200).json({ taskId: req.params.taskID });
+    //         // });
+
+    //         const response = await request(app)
+    //         .get('/tasks/123')
+    //         .set('x-auth-token', authToken)
+            
+    //         console.log(response)
+    //         expect(response.statusCode).toBe(200);
+    //     })
+    // })
 
 })
