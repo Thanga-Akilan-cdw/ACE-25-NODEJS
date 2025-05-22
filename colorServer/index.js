@@ -23,9 +23,14 @@ const generateRandomColors = async (count) => {
 
 // Http server to serve the request
 const server = http.createServer(async (req, res) => {
-    const colors = await generateRandomColors(5);
-    res.writeHead(200, { 'Content-Type': 'text/html' });
-    res.end(colors);
+    if(req.url=='/' && req.method=='GET'){
+        const colors = await generateRandomColors(5);
+        res.writeHead(200, { 'Content-Type': 'text/html' });
+        res.end(colors);
+    }else{
+        res.writeHead(404, {"content-type": 'text/plain'});
+        res.end("404 : Response not found");
+    }
 });
 
 // Server listening at port 3000
