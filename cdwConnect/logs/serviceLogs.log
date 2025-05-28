@@ -1,0 +1,98 @@
+{"level":"error","message":"Error Error : Your Account status is pending","service":"connect-service","timestamp":"2025-05-26T04:17:25.121Z"}
+{"level":"error","message":"Error Error : Your Account status is pending","service":"connect-service","timestamp":"2025-05-26T06:04:23.127Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-05-26T06:04:33.904Z"}
+{"level":"error","message":"Error Error : Invalid role .","service":"connect-service","timestamp":"2025-05-26T08:29:03.192Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-05-26T08:31:23.985Z"}
+{"level":"error","message":"Error TypeError : Cannot read properties of null (reading 'status')","service":"connect-service","timestamp":"2025-05-26T08:31:31.065Z"}
+{"level":"error","message":"Error TypeError : Cannot read properties of null (reading 'status')","service":"connect-service","timestamp":"2025-05-26T08:32:23.215Z"}
+{"level":"error","message":"Error Error : Invalid role .","service":"connect-service","timestamp":"2025-05-26T10:50:44.419Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-05-26T10:50:53.678Z"}
+{"level":"error","message":"Error Error : Invalid role .","service":"connect-service","timestamp":"2025-05-26T11:05:13.412Z"}
+{"level":"error","message":"Error Error : Invalid role .","service":"connect-service","timestamp":"2025-05-26T11:05:14.860Z"}
+{"level":"error","message":"Error Error : Invalid role .","service":"connect-service","timestamp":"2025-05-26T11:05:33.431Z"}
+{"level":"error","message":"Error ReferenceError : employeeID is not defined","service":"connect-service","timestamp":"2025-05-26T11:06:21.448Z"}
+{"level":"error","message":"Error Error : read ETIMEDOUT","service":"connect-service","timestamp":"2025-05-26T12:35:09.467Z"}
+{"level":"error","message":"Error MongoNetworkError : getaddrinfo ENOTFOUND ac-od7mbkm-shard-00-02.wvbmmzh.mongodb.net","service":"connect-service","timestamp":"2025-05-26T12:35:12.586Z"}
+{"level":"error","message":"Error TypeError : Cannot convert object to primitive value","service":"connect-service","timestamp":"2025-05-26T12:56:15.075Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-05-27T17:49:03.564Z"}
+{"level":"error","message":"Error Error : Login Arguments missing","service":"connect-service","timestamp":"2025-05-27T17:49:22.628Z"}
+{"level":"error","message":"Error Error : Login Arguments missing","service":"connect-service","timestamp":"2025-05-27T17:49:32.469Z"}
+{"level":"error","message":"Error Error : Login Arguments missing","service":"connect-service","timestamp":"2025-05-27T17:49:38.409Z"}
+{"level":"error","message":"Error Error : Login Arguments missing","service":"connect-service","timestamp":"2025-05-27T17:49:42.545Z"}
+{"level":"error","message":"Error Error : Login Arguments missing","service":"connect-service","timestamp":"2025-05-27T17:59:58.362Z"}
+{"level":"error","message":"Error Error : Username not found","service":"connect-service","timestamp":"2025-05-27T18:00:41.594Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-05-27T18:01:07.143Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T18:05:44.402Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T18:06:33.647Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T18:06:51.820Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T18:07:02.652Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T18:07:03.808Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T18:09:58.725Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T18:11:30.108Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T18:12:00.123Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T18:12:17.246Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T18:15:09.315Z"}
+{"level":"error","message":"Error Error : User not found.","service":"connect-service","timestamp":"2025-05-27T18:17:16.614Z"}
+{"level":"error","message":"Error Error : User not found.","service":"connect-service","timestamp":"2025-05-27T18:17:27.070Z"}
+{"level":"error","message":"Error Error : User not found.","service":"connect-service","timestamp":"2025-05-27T18:17:53.859Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T18:20:10.278Z"}
+{"level":"error","message":"Error Error : User not found.","service":"connect-service","timestamp":"2025-05-27T18:21:21.239Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T18:21:52.610Z"}
+{"level":"error","message":"Error Error : User not found.","service":"connect-service","timestamp":"2025-05-27T18:23:04.320Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T18:23:12.740Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T18:23:30.289Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T18:23:54.664Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T18:24:20.416Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T18:24:28.888Z"}
+{"level":"error","message":"Error Error : Invalid credentials","service":"connect-service","timestamp":"2025-05-27T18:25:09.423Z"}
+{"level":"error","message":"Error Error : Invalid credentials","service":"connect-service","timestamp":"2025-05-27T18:27:09.045Z"}
+{"level":"error","message":"Error Error : Invalid credentials","service":"connect-service","timestamp":"2025-05-27T18:27:30.413Z"}
+{"level":"error","message":"Error Error : Invalid credentials","service":"connect-service","timestamp":"2025-05-27T18:27:48.080Z"}
+{"level":"error","message":"Error Error : Invalid credentials","service":"connect-service","timestamp":"2025-05-27T18:27:55.613Z"}
+{"level":"error","message":"Error Error : Invalid credentials","service":"connect-service","timestamp":"2025-05-27T18:28:34.337Z"}
+{"level":"error","message":"Error Error : Invalid credentials","service":"connect-service","timestamp":"2025-05-27T18:30:27.703Z"}
+{"level":"error","message":"Error Error : Invalid credentials","service":"connect-service","timestamp":"2025-05-27T18:30:38.644Z"}
+{"level":"error","message":"Error ReferenceError : Cannot access 'email' before initialization","service":"connect-service","timestamp":"2025-05-27T18:30:49.386Z"}
+{"level":"error","message":"Error Error : read EHOSTUNREACH","service":"connect-service","timestamp":"2025-05-27T18:34:48.461Z"}
+{"level":"error","message":"Error Error : User not found.","service":"connect-service","timestamp":"2025-05-27T18:52:50.121Z"}
+{"level":"error","message":"Error Error : User not found.","service":"connect-service","timestamp":"2025-05-27T18:53:08.441Z"}
+{"level":"error","message":"Error Error : User not found.","service":"connect-service","timestamp":"2025-05-27T18:56:47.081Z"}
+{"level":"error","message":"Error Error : User not found.","service":"connect-service","timestamp":"2025-05-27T18:59:06.351Z"}
+{"level":"error","message":"Error Error : User not found.","service":"connect-service","timestamp":"2025-05-27T18:59:14.869Z"}
+{"level":"error","message":"Error Error : Your Account status is pending","service":"connect-service","timestamp":"2025-05-27T19:00:49.288Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-05-27T19:02:38.270Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-05-27T19:02:44.605Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-05-27T19:13:01.142Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T19:13:29.770Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T19:22:09.791Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T19:22:35.181Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T19:27:02.683Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T19:27:44.644Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T19:28:29.365Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T19:29:37.459Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T19:29:53.693Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T19:30:19.402Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T19:31:13.820Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T19:32:14.374Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T19:45:43.536Z"}
+{"level":"error","message":"Error Error : Wallet Verification Failed","service":"connect-service","timestamp":"2025-05-27T19:46:01.723Z"}
+{"level":"error","message":"Error Error : Username not found","service":"connect-service","timestamp":"2025-05-27T19:47:37.943Z"}
+{"level":"error","message":"Error Error : Username not found","service":"connect-service","timestamp":"2025-05-28T02:21:08.834Z"}
+{"level":"error","message":"Error Error : Username not found","service":"connect-service","timestamp":"2025-05-28T02:21:51.230Z"}
+{"level":"error","message":"Error Error : Username not found","service":"connect-service","timestamp":"2025-05-28T02:22:32.986Z"}
+{"level":"error","message":"Error Error : Username not found","service":"connect-service","timestamp":"2025-05-28T02:22:34.000Z"}
+{"level":"error","message":"Error Error : Username not found","service":"connect-service","timestamp":"2025-05-28T02:22:34.599Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-05-28T02:30:29.976Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-05-28T02:30:31.963Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-05-28T02:31:32.992Z"}
+{"level":"error","message":"Error Error : Your Account status is pending","service":"connect-service","timestamp":"2025-05-28T02:31:39.783Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-05-28T02:31:54.524Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-05-28T02:31:55.850Z"}
+{"level":"error","message":"Error Error : User not found in Wallet Database","service":"connect-service","timestamp":"2025-05-28T02:43:40.799Z"}
+{"level":"error","message":"Error Error : User not found in Wallet Database","service":"connect-service","timestamp":"2025-05-28T03:00:28.452Z"}
+{"level":"error","message":"Error Error : User not found in Wallet Database","service":"connect-service","timestamp":"2025-05-28T03:01:41.335Z"}
+{"level":"error","message":"Error Error : You must wait 48 hours after rejection to reapply.","service":"connect-service","timestamp":"2025-05-28T03:02:08.618Z"}
+{"level":"error","message":"Error ReferenceError : req is not defined","service":"connect-service","timestamp":"2025-05-28T03:25:08.887Z"}
+{"level":"error","message":"Error ReferenceError : req is not defined","service":"connect-service","timestamp":"2025-05-28T03:46:08.881Z"}
+{"level":"error","message":"Error ReferenceError : req is not defined","service":"connect-service","timestamp":"2025-05-28T03:46:09.889Z"}
+{"level":"error","message":"Error TypeError : Cannot read properties of undefined (reading 'employeeID')","service":"connect-service","timestamp":"2025-05-28T03:46:45.928Z"}
