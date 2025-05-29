@@ -7,6 +7,8 @@ import errorHandler from './middleware/errorHandler.js';
 import { adminAuthentication, userAuthentication } from './middleware/authentication.js';
 import approvalRouter from './routers/approval.route.js'
 import profileRouter from './routers/profile.route.js';
+import postRouter from './routers/post.route.js'
+import searchRouter from './routers/search.route.js'
 
 const app = express();
 dotenv.config();
@@ -21,6 +23,10 @@ app.use('/', authRouter);
 app.use('/approval/', adminAuthentication, approvalRouter);
 
 app.use('/profile', userAuthentication, profileRouter);
+
+app.use('/post', userAuthentication, postRouter);
+
+app.use('/search', userAuthentication, searchRouter);
 
 app.use(errorHandler);
 

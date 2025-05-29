@@ -7,7 +7,7 @@ const router = express.Router();
 
 router.post('/', createProfileController);
 
-router.get('/:employeeID', fetchProfileDataController);
+router.get('/', fetchProfileDataController);
 
 
 export default router;

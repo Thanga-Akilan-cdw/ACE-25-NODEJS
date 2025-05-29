@@ -5,13 +5,9 @@ import { createNewProfile } from "../utils/profileHandler.js";
 
 export const createProfileController = async (req, res, next) =>{ 
     try {
-        const employeeIDFromURL = req.params.employeeID;
-        const employeeIDFromLogin = req.user.employeeID;
-        if(employeeIDFromLogin != employeeIDFromURL){
-            throw new Error("You are not authorised to create for others.")
-        }
         const data = req.body;
-        console.log(data)
+        data.employeeID = req.user.employeeID;
+        console.log(data);
         await createNewProfile(data);
         res.send("Created Profile Successfully")
     }

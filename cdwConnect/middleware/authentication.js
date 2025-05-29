@@ -16,8 +16,7 @@ export const adminAuthentication = (req, res, next) => {
         if (!decoded.role || decoded.role !== 'admin') {
             return res.status(403).json({ message: "Forbidden: Admins only" });
         }
-
-        res.user = decoded;
+        req.user = decoded;
         next()
     }
     catch(error){
@@ -35,7 +34,7 @@ export const userAuthentication = (req, res, next) => {
     try{
         const decoded = jwt.verify(accessToken, process.env.JWT_SECRET);
 
-        res.user = decoded;
+        req.user = decoded;
         next()
     }
     catch(error){

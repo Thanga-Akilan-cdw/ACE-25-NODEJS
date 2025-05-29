@@ -9,10 +9,10 @@ dotenv.config();
 export const signupUser = async (data) => {
     const { username, email, employeeID, password, role } = data;
     const hashedPassword = generateHash(password);
-    if(!(employeeID && password && role)){
+    if(!(employeeID && password && role && email)){
         throw new Error("redentials missing for Signup")
     }
-    const user = await getUser({employeeID});
+    const user = await getUser({employeeID, email});
     const status = role=='admin'?"approved":"pending";
     if(user && user.status != "rejected"){
         throw new Error("User Already Exists");
@@ -36,13 +36,14 @@ export const signupUser = async (data) => {
 
 
 export const signinUser = async (data) => {
-    const {username, password, role, employeeID} = data;
-    if(!(username && password && role)){
+    const { password, role, employeeID} = data;
+    if(!(employeeID && password && role)){
         throw new Error("Login Arguments missing")
     }
     const user = await getUser({employeeID});
+    console.log("User  : ",{employeeID})
     if(!user){
-        throw new Error("Username not found")
+        throw new Error("User not found for the Employee ID")
     }
     if(user.password != generateHash(password)){
         throw new Error("Incorrect Password")

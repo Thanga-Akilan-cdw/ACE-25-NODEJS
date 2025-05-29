@@ -1,12 +1,16 @@
-import { getDB } from "./db.js";
+import { Profile } from "../models/Profile.js";
 
 export const createNewProfile = async (data) => {
-    const database = await getDB();
-    await database.collection('profiles').insertOne(data);
+    const {employeeID} = data;
+    const profile = await Profile.findOne({employeeID});
+    if(profile){
+        throw new Error("Profile exists Already")
+    }
+    await Profile.insertOne(data);
 }
 
 export const fetchProfileDataFromDB = async (employeeID) => {
-    const database = await getDB();
-    const profile = await database.collection('profiles').find({employeeID});
+    const profile = await Profile.findOne({});
+    console.log(employeeID )
     return profile;
 }
