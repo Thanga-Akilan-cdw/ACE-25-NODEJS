@@ -58,3 +58,116 @@
 {"level":"info","message":"User thanga Akilan V signed in successfully","service":"auth-service","timestamp":"2025-05-29T16:13:54.007Z"}
 {"level":"info","message":"Created User thanga Akilan V with status approved","service":"auth-service","timestamp":"2025-05-29T18:29:20.182Z"}
 {"level":"info","message":"User thanga Akilan V signed in successfully","service":"auth-service","timestamp":"2025-05-29T18:32:27.734Z"}
+{"level":"info","message":"Created User thanga Akilan V with status approved","service":"auth-service","timestamp":"2025-05-30T03:42:28.827Z"}
+{"level":"info","message":"Created User undefined with status pending","service":"auth-service","timestamp":"2025-05-30T03:44:32.385Z"}
+{"level":"info","message":"Created User undefined with status pending","service":"auth-service","timestamp":"2025-05-30T03:48:16.839Z"}
+{"level":"info","message":"Created User undefined with status approved","service":"auth-service","timestamp":"2025-05-30T03:51:44.592Z"}
+{"level":"info","message":"Created User undefined with status approved","service":"auth-service","timestamp":"2025-05-30T03:57:48.476Z"}
+{"level":"info","message":"Fetched user 183367","service":"auth-service","timestamp":"2025-06-01T15:25:40.859Z"}
+{"level":"info","message":"Inserted User 183367 to collection","service":"auth-service","timestamp":"2025-06-01T15:25:40.894Z"}
+{"level":"info","message":"Created User John Doe with status approved","service":"auth-service","timestamp":"2025-06-01T15:25:40.895Z"}
+{"level":"info","message":"Fetched user 183367","service":"auth-service","timestamp":"2025-06-01T15:26:05.839Z"}
+{"level":"info","message":"Fetched user 183967","service":"auth-service","timestamp":"2025-06-01T15:26:20.634Z"}
+{"level":"info","message":"Fetched user 183967","service":"auth-service","timestamp":"2025-06-01T15:26:39.688Z"}
+{"level":"info","message":"Inserted User 183967 to collection","service":"auth-service","timestamp":"2025-06-01T15:26:39.719Z"}
+{"level":"info","message":"Created User John Doe with status approved","service":"auth-service","timestamp":"2025-06-01T15:26:39.720Z"}
+{"level":"info","message":"Fetched user 129381","service":"auth-service","timestamp":"2025-06-01T15:29:12.687Z"}
+{"level":"info","message":"Inserted User 129381 to collection","service":"auth-service","timestamp":"2025-06-01T15:29:12.726Z"}
+{"level":"info","message":"Created User undefined with status approved","service":"auth-service","timestamp":"2025-06-01T15:29:12.727Z"}
+{"level":"info","message":"Fetched user 129381","service":"auth-service","timestamp":"2025-06-01T15:29:55.028Z"}
+{"level":"info","message":"Fetched user 12381","service":"auth-service","timestamp":"2025-06-01T15:30:05.110Z"}
+{"level":"info","message":"Fetched user 12381","service":"auth-service","timestamp":"2025-06-01T15:30:09.163Z"}
+{"level":"info","message":"Inserted User 12381 to collection","service":"auth-service","timestamp":"2025-06-01T15:30:09.199Z"}
+{"level":"info","message":"Created User undefined with status approved","service":"auth-service","timestamp":"2025-06-01T15:30:09.200Z"}
+{"level":"info","message":"Fetched user 12381","service":"auth-service","timestamp":"2025-06-01T15:30:34.326Z"}
+{"level":"info","message":"Fetched user 12381","service":"auth-service","timestamp":"2025-06-01T15:35:27.896Z"}
+{"level":"info","message":"Fetched user 12381","service":"auth-service","timestamp":"2025-06-01T15:36:16.627Z"}
+{"level":"info","message":"Fetched user 12381","service":"auth-service","timestamp":"2025-06-01T15:36:25.347Z"}
+{"level":"info","message":"Fetched user 181","service":"auth-service","timestamp":"2025-06-01T15:36:30.049Z"}
+{"level":"info","message":"Inserted User 181 to collection","service":"auth-service","timestamp":"2025-06-01T15:36:30.083Z"}
+{"level":"info","message":"Created User Bob Smith with status approved","service":"auth-service","timestamp":"2025-06-01T15:36:30.085Z"}
+{"level":"info","message":"Fetched user 193081","service":"auth-service","timestamp":"2025-06-01T15:37:19.054Z"}
+{"level":"info","message":"Inserted User 193081 to collection","service":"auth-service","timestamp":"2025-06-01T15:37:19.083Z"}
+{"level":"info","message":"Created User Bob Smith with status approved","service":"auth-service","timestamp":"2025-06-01T15:37:19.083Z"}
+{"level":"info","message":"User 193081 signed Up","service":"auth-service","timestamp":"2025-06-01T15:37:19.083Z"}
+{"level":"info","message":"Fetched user 18939967","service":"auth-service","timestamp":"2025-06-01T15:37:39.395Z"}
+{"level":"info","message":"Inserted User 18939967 to collection","service":"auth-service","timestamp":"2025-06-01T15:37:39.426Z"}
+{"level":"info","message":"Created User John Doe with status approved","service":"auth-service","timestamp":"2025-06-01T15:37:39.427Z"}
+{"level":"info","message":"User 18939967 signed Up","service":"auth-service","timestamp":"2025-06-01T15:37:39.427Z"}
+{"level":"info","message":"Fetched user 18939967","service":"auth-service","timestamp":"2025-06-01T15:37:42.861Z"}
+{"level":"info","message":"Fetched user 18939967","service":"auth-service","timestamp":"2025-06-01T15:38:30.021Z"}
+{"level":"info","message":"User undefined signed in successfully","service":"auth-service","timestamp":"2025-06-01T15:38:30.024Z"}
+{"level":"info","message":"Fetched user 18939967","service":"auth-service","timestamp":"2025-06-01T15:38:31.674Z"}
+{"level":"info","message":"User undefined signed in successfully","service":"auth-service","timestamp":"2025-06-01T15:38:31.676Z"}
+{"level":"info","message":"Fetched user 18939967","service":"auth-service","timestamp":"2025-06-01T15:38:35.907Z"}
+{"level":"info","message":"User undefined signed in successfully","service":"auth-service","timestamp":"2025-06-01T15:38:35.910Z"}
+{"level":"info","message":"Fetched user 18939967","service":"auth-service","timestamp":"2025-06-01T15:38:36.942Z"}
+{"level":"info","message":"User undefined signed in successfully","service":"auth-service","timestamp":"2025-06-01T15:38:36.944Z"}
+{"level":"info","message":"Fetched user 18939967","service":"auth-service","timestamp":"2025-06-01T15:38:37.613Z"}
+{"level":"info","message":"User undefined signed in successfully","service":"auth-service","timestamp":"2025-06-01T15:38:37.615Z"}
+{"level":"info","message":"Fetched user 18939967","service":"auth-service","timestamp":"2025-06-01T15:38:42.141Z"}
+{"level":"info","message":"Fetched user 18939967","service":"auth-service","timestamp":"2025-06-01T15:38:51.672Z"}
+{"level":"info","message":"Fetched user 1893967","service":"auth-service","timestamp":"2025-06-01T15:38:58.954Z"}
+{"level":"info","message":"Fetched user 1893967","service":"auth-service","timestamp":"2025-06-01T15:39:09.445Z"}
+{"level":"info","message":"Fetched user 18939967","service":"auth-service","timestamp":"2025-06-01T15:39:15.566Z"}
+{"level":"info","message":"Fetched user 18939967","service":"auth-service","timestamp":"2025-06-01T15:39:22.473Z"}
+{"level":"info","message":"Fetched user 18939967","service":"auth-service","timestamp":"2025-06-01T15:40:04.618Z"}
+{"level":"info","message":"User undefined signed in successfully","service":"auth-service","timestamp":"2025-06-01T15:40:04.620Z"}
+{"level":"info","message":"Fetched user 18939967","service":"auth-service","timestamp":"2025-06-01T15:41:11.697Z"}
+{"level":"info","message":"User undefined signed in successfully","service":"auth-service","timestamp":"2025-06-01T15:41:11.699Z"}
+{"level":"info","message":"Fetched user 18939967","service":"auth-service","timestamp":"2025-06-01T16:06:41.919Z"}
+{"level":"info","message":"Fetched user 18939967","service":"auth-service","timestamp":"2025-06-01T16:09:13.300Z"}
+{"level":"info","message":"User undefined signed in successfully","service":"auth-service","timestamp":"2025-06-01T16:09:13.303Z"}
+{"level":"info","message":"Fetched user 18939967","service":"auth-service","timestamp":"2025-06-01T16:15:45.567Z"}
+{"level":"info","message":"User 18939967 signed in successfully","service":"auth-service","timestamp":"2025-06-01T16:15:45.568Z"}
+{"level":"info","message":"Fetched user 123782","service":"auth-service","timestamp":"2025-06-01T16:31:12.355Z"}
+{"level":"info","message":"Inserted User 123782 to collection","service":"auth-service","timestamp":"2025-06-01T16:31:12.389Z"}
+{"level":"info","message":"Created User Thanga Akilan with status approved","service":"auth-service","timestamp":"2025-06-01T16:31:12.390Z"}
+{"level":"info","message":"User 123782 signed Up","service":"auth-service","timestamp":"2025-06-01T16:31:12.390Z"}
+{"level":"info","message":"Fetched user 123782","service":"auth-service","timestamp":"2025-06-01T16:31:13.876Z"}
+{"level":"info","message":"Fetched user 123782","service":"auth-service","timestamp":"2025-06-01T16:31:24.625Z"}
+{"level":"info","message":"Fetched user 123782","service":"auth-service","timestamp":"2025-06-01T16:31:30.494Z"}
+{"level":"info","message":"Fetched user 1263782","service":"auth-service","timestamp":"2025-06-01T16:31:40.295Z"}
+{"level":"info","message":"Inserted User 1263782 to collection","service":"auth-service","timestamp":"2025-06-01T16:31:40.326Z"}
+{"level":"info","message":"Created User Thanga Akilan with status approved","service":"auth-service","timestamp":"2025-06-01T16:31:40.326Z"}
+{"level":"info","message":"User 1263782 signed Up","service":"auth-service","timestamp":"2025-06-01T16:31:40.326Z"}
+{"level":"info","message":"Fetched user 1263782","service":"auth-service","timestamp":"2025-06-01T16:32:04.973Z"}
+{"level":"info","message":"User 1263782 signed in successfully","service":"auth-service","timestamp":"2025-06-01T16:32:04.977Z"}
+{"level":"info","message":"Fetched user 1263782","service":"auth-service","timestamp":"2025-06-01T16:32:05.946Z"}
+{"level":"info","message":"User 1263782 signed in successfully","service":"auth-service","timestamp":"2025-06-01T16:32:05.948Z"}
+{"level":"info","message":"Fetched user 123782","service":"auth-service","timestamp":"2025-06-01T16:36:57.168Z"}
+{"level":"info","message":"Fetched user 123782","service":"auth-service","timestamp":"2025-06-01T16:37:14.157Z"}
+{"level":"info","message":"User 123782 signed in successfully","service":"auth-service","timestamp":"2025-06-01T16:37:14.161Z"}
+{"level":"info","message":"Fetched user 123782","service":"auth-service","timestamp":"2025-06-01T17:56:54.308Z"}
+{"level":"info","message":"Fetched user 123782","service":"auth-service","timestamp":"2025-06-01T17:59:17.229Z"}
+{"level":"info","message":"Fetched user 123782","service":"auth-service","timestamp":"2025-06-01T17:59:18.032Z"}
+{"level":"info","message":"Fetched user 123782","service":"auth-service","timestamp":"2025-06-01T17:59:40.528Z"}
+{"level":"info","message":"Fetched user 123782","service":"auth-service","timestamp":"2025-06-01T17:59:42.127Z"}
+{"level":"info","message":"Fetched user 123782","service":"auth-service","timestamp":"2025-06-01T18:00:02.747Z"}
+{"level":"info","message":"User 123782 signed in successfully","service":"auth-service","timestamp":"2025-06-01T18:00:02.749Z"}
+{"level":"info","message":"Fetched user 123782","service":"auth-service","timestamp":"2025-06-01T18:04:22.461Z"}
+{"level":"info","message":"User 123782 signed in successfully","service":"auth-service","timestamp":"2025-06-01T18:04:22.463Z"}
+{"level":"info","message":"Fetched user 123782","service":"auth-service","timestamp":"2025-06-01T18:04:23.449Z"}
+{"level":"info","message":"User 123782 signed in successfully","service":"auth-service","timestamp":"2025-06-01T18:04:23.451Z"}
+{"level":"info","message":"Fetched user 123782","service":"auth-service","timestamp":"2025-06-02T08:20:13.383Z"}
+{"level":"info","message":"Fetched user 123782","service":"auth-service","timestamp":"2025-06-02T08:20:15.361Z"}
+{"level":"info","message":"Fetched user 123782","service":"auth-service","timestamp":"2025-06-02T08:20:29.814Z"}
+{"level":"info","message":"User 123782 signed in successfully","service":"auth-service","timestamp":"2025-06-02T08:20:29.818Z"}
+{"level":"info","message":"Fetched user 123782","service":"auth-service","timestamp":"2025-06-02T08:20:31.086Z"}
+{"level":"info","message":"User 123782 signed in successfully","service":"auth-service","timestamp":"2025-06-02T08:20:31.087Z"}
+{"level":"info","message":"Fetched user undefined","service":"auth-service","timestamp":"2025-06-02T08:21:31.534Z"}
+{"level":"info","message":"Fetched user 193081","service":"auth-service","timestamp":"2025-06-02T13:00:35.851Z"}
+{"level":"info","message":"Fetched user 19081","service":"auth-service","timestamp":"2025-06-02T13:00:44.602Z"}
+{"level":"info","message":"Inserted User 19081 to collection","service":"auth-service","timestamp":"2025-06-02T13:00:44.639Z"}
+{"level":"info","message":"Created User Bob Smith with status approved","service":"auth-service","timestamp":"2025-06-02T13:00:44.639Z"}
+{"level":"info","message":"User 19081 signed Up","service":"auth-service","timestamp":"2025-06-02T13:00:44.640Z"}
+{"level":"info","message":"Fetched user 19081","service":"auth-service","timestamp":"2025-06-02T13:00:50.308Z"}
+{"level":"info","message":"User 19081 signed in successfully","service":"auth-service","timestamp":"2025-06-02T13:00:50.312Z"}
+{"level":"info","message":"Fetched user 1973081","service":"auth-service","timestamp":"2025-06-02T13:01:23.815Z"}
+{"level":"info","message":"Inserted User 1973081 to collection","service":"auth-service","timestamp":"2025-06-02T13:01:23.843Z"}
+{"level":"info","message":"Created User Bob Smith with status pending","service":"auth-service","timestamp":"2025-06-02T13:01:23.843Z"}
+{"level":"info","message":"User 1973081 signed Up","service":"auth-service","timestamp":"2025-06-02T13:01:23.843Z"}
+{"level":"info","message":"Fetched user 1973081","service":"auth-service","timestamp":"2025-06-02T13:01:28.213Z"}
+{"level":"info","message":"Fetched user 1973081","service":"auth-service","timestamp":"2025-06-02T13:02:08.228Z"}
+{"level":"info","message":"Fetched user 1973081","service":"auth-service","timestamp":"2025-06-02T13:02:08.289Z"}
+{"level":"info","message":"Updates user 1973081 status ","service":"auth-service","timestamp":"2025-06-02T13:02:08.293Z"}

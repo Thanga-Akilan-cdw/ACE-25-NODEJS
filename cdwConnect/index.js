@@ -9,6 +9,7 @@ import approvalRouter from './routers/approval.route.js'
 import profileRouter from './routers/profile.route.js';
 import postRouter from './routers/post.route.js'
 import searchRouter from './routers/search.route.js'
+import setupSwagger from './swagger.js'
 
 const app = express();
 dotenv.config();
@@ -27,6 +28,8 @@ app.use('/profile', userAuthentication, profileRouter);
 app.use('/post', userAuthentication, postRouter);
 
 app.use('/search', userAuthentication, searchRouter);
+
+setupSwagger(app);
 
 app.use(errorHandler);
 

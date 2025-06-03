@@ -33,7 +33,6 @@ export const userAuthentication = (req, res, next) => {
 
     try{
         const decoded = jwt.verify(accessToken, process.env.JWT_SECRET);
-
         req.user = decoded;
         next()
     }

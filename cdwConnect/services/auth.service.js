@@ -10,12 +10,16 @@ export const signupUser = async (data) => {
     const { username, email, employeeID, password, role } = data;
     const hashedPassword = generateHash(password);
     if(!(employeeID && password && role && email)){
-        throw new Error("redentials missing for Signup")
+        const error = new Error("Credentials missing for Signup")
+        error.statusCode = 400;
+        throw error;
     }
     const user = await getUser({employeeID, email});
     const status = role=='admin'?"approved":"pending";
     if(user && user.status != "rejected"){
-        throw new Error("User Already Exists");
+        const error = new Error("User Already Exists");
+        error.statusCode = 409;
+        throw error;
     }else if(user){
         if (user.rejectedOn) {
             const rejectedTime = new Date(user.rejectedOn).getTime();
@@ -38,13 +42,17 @@ export const signupUser = async (data) => {
 export const signinUser = async (data) => {
     const { password, role, employeeID} = data;
     if(!(employeeID && password && role)){
-        throw new Error("Login Arguments missing")
+        const error = new Error("Login Arguments missing");
+        error.statusCode = 401;
+        throw error;
     }
     const user = await getUser({employeeID});
-    console.log("User  : ",{employeeID})
     if(!user){
-        throw new Error("User not found for the Employee ID")
+        const error = new Error("User not found for the Employee ID");
+        error.statusCode = 404;
+        throw error;
     }
+
     if(user.password != generateHash(password)){
         throw new Error("Incorrect Password")
     }

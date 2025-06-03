@@ -14,15 +14,13 @@ export const createPost = async (data, employeeID) => {
 export const getAllPosts = async (data) => {
     const query = {}
     let user;
-    console.log("Data : ",data)
-    if(Object.keys(data).length!=0){ user = await getUser(data);}
+    if(data && Object.keys(data).length!=0){ user = await getUser(data);}
     if(user) query.employeeID = user.employeeID;
     const posts = await getPosts(query);
     return posts;
 }
 
 export const getPostByID = async (postID) => {
-   
     const post = await getPost(postID);
     return post;
   }

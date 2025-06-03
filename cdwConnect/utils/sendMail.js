@@ -1,5 +1,5 @@
 import nodemailer from 'nodemailer';
-import { authLogger } from '../logger/index.js';
+import { authLogger, serviceLogger } from '../logger/index.js';
 
 
 let mailTransporter =
@@ -30,9 +30,9 @@ mailTransporter
     .sendMail(mailDetails,
         function (err, data) {
             if (err) {
-                authLogger.error('Error Occured in sending mail');
+                serviceLogger.error('Error Occured in sending mail');
             } else {
-                authLogger.info(`Email sent successfully to ${mailTO}`);
+                serviceLogger.info(`Email sent successfully to ${mailTO}`);
             }
         });
 }

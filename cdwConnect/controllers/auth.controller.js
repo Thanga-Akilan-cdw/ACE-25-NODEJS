@@ -6,6 +6,7 @@ export const signupUserController = async (req, res, next) => {
     try{
         const data = req.body;
         await signupUser(data);
+        authLogger.info(`User ${data.employeeID} signed Up`)
         res.send("Signup Successful");
     }catch(error){
         next(error);
@@ -17,7 +18,7 @@ export const signinUserController = async (req, res, next) => {
     try{
         const data = req.body;
         const accessToken = await signinUser(data);
-        authLogger.info(`User ${data.username} signed in successfully`);
+        authLogger.info(`User ${data.employeeID} signed in successfully`);
         res.json({token: accessToken});
     }
     catch(error){

@@ -193,3 +193,62 @@
 {"level":"error","message":"Error ReferenceError : commentPost is not defined","service":"connect-service","timestamp":"2025-05-29T20:18:09.993Z"}
 {"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-05-29T20:38:27.940Z"}
 {"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-05-29T20:38:31.674Z"}
+{"level":"error","message":"Error Error : read ETIMEDOUT","service":"connect-service","timestamp":"2025-05-30T03:52:45.979Z"}
+{"level":"error","message":"Error TypeError : Cannot destructure property 'username' of 'data' as it is undefined.","service":"connect-service","timestamp":"2025-06-01T06:32:27.138Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-06-01T07:45:58.040Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-06-01T07:46:00.018Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-06-01T07:46:01.377Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-06-01T07:46:02.094Z"}
+{"level":"error","message":"Error ReferenceError : employeeID is not defined","service":"connect-service","timestamp":"2025-06-01T15:25:40.895Z"}
+{"level":"error","message":"Error Error : redentials missing for Signup","service":"connect-service","timestamp":"2025-06-01T15:25:56.252Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-06-01T15:26:05.840Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-06-01T15:26:20.635Z"}
+{"level":"error","message":"Error ReferenceError : employeeID is not defined","service":"connect-service","timestamp":"2025-06-01T15:26:39.720Z"}
+{"level":"error","message":"Error ReferenceError : employeeID is not defined","service":"connect-service","timestamp":"2025-06-01T15:29:12.727Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-06-01T15:29:55.029Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-06-01T15:30:05.113Z"}
+{"level":"error","message":"Error ReferenceError : employeeID is not defined","service":"connect-service","timestamp":"2025-06-01T15:30:09.200Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-06-01T15:30:34.328Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-06-01T15:35:27.897Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-06-01T15:36:16.628Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-06-01T15:36:25.348Z"}
+{"level":"error","message":"Error ReferenceError : employeeID is not defined","service":"connect-service","timestamp":"2025-06-01T15:36:30.085Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-06-01T15:37:42.863Z"}
+{"level":"error","message":"Error Error : Invalid role .","service":"connect-service","timestamp":"2025-06-01T15:38:42.141Z"}
+{"level":"error","message":"Error Error : Incorrect Password","service":"connect-service","timestamp":"2025-06-01T15:38:51.673Z"}
+{"level":"error","message":"Error Error : User not found for the Employee ID","service":"connect-service","timestamp":"2025-06-01T15:38:58.954Z"}
+{"level":"error","message":"Error Error : User not found for the Employee ID","service":"connect-service","timestamp":"2025-06-01T15:39:09.446Z"}
+{"level":"error","message":"Error Error : Incorrect Password","service":"connect-service","timestamp":"2025-06-01T15:39:15.567Z"}
+{"level":"error","message":"Error Error : Invalid role .","service":"connect-service","timestamp":"2025-06-01T15:39:22.474Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-06-01T15:39:45.683Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-06-01T15:40:31.936Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-06-01T15:40:36.106Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-06-01T15:40:36.755Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-06-01T15:40:43.110Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-06-01T15:41:16.168Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-06-01T16:06:41.920Z"}
+{"level":"error","message":"Error CastError : Cast to Number failed for value \"NaN\" (type number) at path \"employeeID\" for model \"User\"","service":"connect-service","timestamp":"2025-06-01T16:29:10.784Z"}
+{"level":"error","message":"Error CastError : Cast to Number failed for value \"NaN\" (type number) at path \"employeeID\" for model \"User\"","service":"connect-service","timestamp":"2025-06-01T16:29:11.835Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-06-01T16:31:13.877Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-06-01T16:31:24.628Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-06-01T16:31:30.495Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-06-01T16:32:35.334Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-06-01T16:33:49.038Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-06-01T16:36:33.543Z"}
+{"level":"error","message":"Error Error : Incorrect Password","service":"connect-service","timestamp":"2025-06-01T16:36:57.168Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-06-01T16:37:45.404Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-06-01T17:56:54.309Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-06-01T17:59:17.230Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-06-01T17:59:18.033Z"}
+{"level":"error","message":"Error Error : Incorrect Password","service":"connect-service","timestamp":"2025-06-01T17:59:40.529Z"}
+{"level":"error","message":"Error Error : Incorrect Password","service":"connect-service","timestamp":"2025-06-01T17:59:42.128Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-06-01T18:00:21.781Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-06-01T18:00:30.959Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-06-01T18:00:33.158Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-06-01T18:04:41.978Z"}
+{"level":"error","message":"Error JsonWebTokenError : jwt must be provided","service":"connect-service","timestamp":"2025-06-01T18:04:43.625Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-06-02T08:20:13.384Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-06-02T08:20:15.362Z"}
+{"level":"error","message":"Error Error : User Already Exists","service":"connect-service","timestamp":"2025-06-02T13:00:35.852Z"}
+{"level":"error","message":"Error Error : Your Account status is pending","service":"connect-service","timestamp":"2025-06-02T13:01:28.215Z"}
+{"level":"error","message":"Error Error : User not found in Wallet Database","service":"connect-service","timestamp":"2025-06-02T13:02:08.295Z"}

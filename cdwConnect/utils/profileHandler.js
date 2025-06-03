@@ -1,3 +1,4 @@
+import { dbLogger } from "../logger/index.js";
 import { Profile } from "../models/Profile.js";
 
 export const createNewProfile = async (data) => {
@@ -7,10 +8,11 @@ export const createNewProfile = async (data) => {
         throw new Error("Profile exists Already")
     }
     await Profile.insertOne(data);
+    dbLogger.info(`Added new Profile for employee ${employeeID}`)
 }
 
 export const fetchProfileDataFromDB = async (employeeID) => {
     const profile = await Profile.findOne({});
-    console.log(employeeID )
+    dbLogger.info(`Fetched profile of user ${employeeID}`)
     return profile;
 }
