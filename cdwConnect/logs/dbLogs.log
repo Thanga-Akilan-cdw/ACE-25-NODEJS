@@ -1,0 +1,798 @@
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T07:35:14.058Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T07:49:50.430Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T07:49:56.305Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T07:52:47.489Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T07:52:51.141Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T07:55:14.722Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T07:55:16.199Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T07:55:20.600Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T07:55:33.762Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T07:55:37.017Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T07:55:49.711Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:02:36.250Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:03:36.651Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:03:56.466Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:04:07.772Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:04:32.917Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:04:40.451Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:05:52.380Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:06:06.795Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:06:28.998Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:06:32.195Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:06:57.087Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:07:03.007Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:07:07.139Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:07:26.951Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:07:29.182Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:07:46.518Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:07:52.860Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:10:29.669Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:11:04.409Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:12:26.018Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:12:41.450Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:14:12.447Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:16:32.602Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:16:42.040Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:22:02.268Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:24:59.337Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:27:00.278Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:47:53.456Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:47:55.323Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:48:19.407Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T08:48:21.122Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:19:13.710Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:19:14.993Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:19:17.826Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:20:30.809Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:27:24.115Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:28:41.366Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:49:31.848Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:49:33.018Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:49:39.072Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:49:40.304Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:50:03.364Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:50:25.267Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:50:28.543Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:50:33.422Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:50:45.737Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:51:14.272Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:51:28.590Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:51:36.121Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:51:46.845Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:57:14.259Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:57:15.921Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:57:28.281Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:57:50.547Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:58:02.221Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:58:03.783Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:58:26.312Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:58:30.474Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T09:58:33.323Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T10:07:21.842Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T10:07:30.731Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T10:07:43.760Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T10:07:51.993Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T10:07:58.270Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T13:09:09.526Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T13:10:08.728Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T13:10:45.564Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T13:11:23.875Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T13:12:22.617Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T13:12:23.865Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T13:12:41.497Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T13:13:48.128Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T13:33:03.179Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T13:33:12.136Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T13:33:44.070Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T13:33:50.946Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T13:34:00.094Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T13:34:28.493Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T13:34:44.566Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T13:34:57.279Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T13:40:57.184Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T13:41:06.321Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T13:41:57.069Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T14:03:38.676Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T14:04:17.943Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T14:04:36.076Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T14:09:47.002Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T14:21:48.110Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T14:22:45.302Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T14:23:13.729Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T14:23:16.117Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T14:23:18.636Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T14:24:51.050Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T14:25:03.970Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T14:26:50.921Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T14:28:08.772Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T14:58:54.257Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T14:59:44.817Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T14:59:54.466Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T14:59:56.541Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T15:00:23.962Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T15:00:25.349Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T15:00:51.047Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T15:01:44.178Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T15:01:45.082Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T15:03:22.289Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T15:04:44.845Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T16:07:18.685Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T16:07:45.408Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T16:08:25.537Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T16:08:29.821Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T16:08:32.393Z"}
+{"code":"ETIMEOUT","hostname":"_mongodb._tcp.cluster0.wvbmmzh.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ETIMEOUT _mongodb._tcp.cluster0.wvbmmzh.mongodb.net","service":"db-service","stack":"Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.wvbmmzh.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)","syscall":"querySrv","timestamp":"2025-05-25T17:43:21.416Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T18:26:43.125Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T18:29:02.820Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T18:31:13.795Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T18:47:34.131Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T18:47:48.651Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T18:48:19.754Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T18:48:21.954Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T18:48:35.348Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T18:51:08.174Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T18:55:37.754Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T18:56:37.719Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T19:00:51.816Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T19:01:07.130Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T19:01:08.784Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T19:02:41.840Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T19:02:49.264Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T19:03:17.360Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T19:03:19.258Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T19:03:41.140Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T19:06:05.767Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T19:06:12.714Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-25T19:06:25.761Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T02:47:39.759Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T02:47:42.622Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T02:48:00.635Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T02:49:32.965Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T02:49:53.283Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T02:55:09.368Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T02:55:16.517Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T02:55:34.267Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T04:11:54.540Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T04:13:16.119Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T04:13:18.090Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T04:14:14.295Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T04:15:29.475Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T04:16:33.165Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T04:17:19.105Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T06:04:16.708Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T06:21:15.909Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T06:21:42.072Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T06:21:46.347Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T06:22:29.933Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T06:22:40.948Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T06:22:51.064Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T06:22:51.998Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T06:23:05.503Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T06:23:07.036Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T06:23:18.889Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T06:32:14.274Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T06:32:39.577Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T07:07:32.645Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T07:09:21.176Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T07:09:28.741Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T07:09:30.366Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T07:24:20.957Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T07:24:42.767Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T07:25:04.188Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T07:25:07.499Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T07:26:33.002Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T07:37:53.196Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T07:38:34.717Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T07:38:47.541Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T08:00:09.127Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T08:00:28.481Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T08:00:43.222Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T08:00:50.788Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T08:03:39.440Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T08:18:11.665Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T08:18:39.616Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T08:20:28.725Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T08:30:28.021Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T08:32:18.462Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T08:32:55.673Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T08:33:15.703Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T08:42:18.907Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T08:42:29.344Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T08:43:24.028Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T08:43:25.573Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T08:48:20.150Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T08:48:35.964Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T08:48:41.339Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T08:48:42.677Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T08:50:21.890Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T10:42:23.864Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T10:42:32.865Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T10:45:31.245Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T10:50:18.741Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T11:03:20.399Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T11:03:30.068Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T11:05:10.077Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T11:05:31.442Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T11:06:18.209Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T11:09:42.442Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T11:10:57.193Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T11:14:59.132Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T12:01:58.061Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T12:12:48.795Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T12:25:17.383Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T12:32:11.101Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T12:32:12.546Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T12:32:49.936Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T12:32:59.614Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T12:33:00.681Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T12:33:07.288Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T12:33:18.698Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T12:34:44.956Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T12:34:46.367Z"}
+{"code":"ETIMEOUT","hostname":"_mongodb._tcp.cluster0.wvbmmzh.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ETIMEOUT _mongodb._tcp.cluster0.wvbmmzh.mongodb.net","service":"db-service","stack":"Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.wvbmmzh.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)","syscall":"querySrv","timestamp":"2025-05-26T12:36:15.433Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T12:56:11.943Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T12:56:49.860Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T12:57:12.084Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T16:03:42.223Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T16:28:14.819Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T16:28:17.721Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T16:28:28.779Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T18:24:13.271Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T18:24:41.890Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-26T18:24:43.701Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T02:34:42.138Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T03:02:14.890Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T03:05:26.690Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T03:11:07.830Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T03:48:17.270Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T03:50:03.224Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T03:50:05.448Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T03:50:59.072Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T03:51:10.455Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T03:51:49.119Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T03:51:53.424Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T03:52:05.014Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T03:52:06.213Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T03:58:50.299Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T03:58:51.225Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T03:59:37.793Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:00:14.681Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:00:34.537Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:00:36.913Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:00:37.889Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:00:54.422Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:00:58.273Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:01:01.940Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:01:04.085Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:01:06.862Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:01:22.898Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:12:55.770Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:14:12.372Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:14:58.617Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:16:03.850Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:16:07.613Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:16:10.046Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:16:15.516Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:16:47.240Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:16:51.488Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:17:06.388Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:17:37.047Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:17:53.428Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:18:13.014Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:18:50.961Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:18:52.878Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:19:20.822Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:19:22.718Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:19:24.031Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:19:31.682Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:19:57.976Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:20:02.838Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:20:13.554Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:20:28.597Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:21:25.577Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:22:13.276Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:22:49.971Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:23:06.055Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:23:21.385Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:23:31.573Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:33:32.243Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T04:34:57.831Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T05:50:30.985Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T05:51:02.246Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T05:51:04.050Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T05:58:52.284Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T06:00:32.153Z"}
+{"code":"ETIMEOUT","hostname":"_mongodb._tcp.cluster0.wvbmmzh.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ETIMEOUT _mongodb._tcp.cluster0.wvbmmzh.mongodb.net","service":"db-service","stack":"Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.wvbmmzh.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)","syscall":"querySrv","timestamp":"2025-05-27T06:17:05.511Z"}
+{"code":"ETIMEOUT","hostname":"_mongodb._tcp.cluster0.wvbmmzh.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ETIMEOUT _mongodb._tcp.cluster0.wvbmmzh.mongodb.net","service":"db-service","stack":"Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.wvbmmzh.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)","syscall":"querySrv","timestamp":"2025-05-27T06:25:25.354Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T06:29:23.533Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T07:15:00.490Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T07:16:21.072Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T07:22:23.982Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T07:22:36.627Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T07:22:48.125Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T07:23:27.139Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T07:25:30.108Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T07:25:35.411Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T07:25:50.718Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T07:26:13.226Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T07:29:20.388Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T07:30:44.969Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T07:30:56.597Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T07:31:24.888Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T09:56:32.283Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T10:25:25.795Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T10:25:42.339Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T10:26:19.950Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T10:27:36.723Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T13:59:04.326Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T14:02:02.955Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T14:10:27.829Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T15:27:41.019Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T15:36:03.365Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T15:36:11.287Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T15:36:33.189Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T15:37:07.891Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T15:37:39.329Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T15:37:52.039Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T16:18:48.134Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T16:19:01.577Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T16:49:15.068Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T17:04:06.418Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T17:19:45.619Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T17:20:51.388Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T17:22:11.770Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T17:23:37.553Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T17:24:04.841Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T17:24:40.730Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T17:24:54.542Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T17:25:11.868Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T17:26:18.007Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T17:26:20.432Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T17:26:36.207Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T17:36:08.145Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T17:36:14.725Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T17:41:17.883Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T17:41:19.492Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T17:45:53.693Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T17:45:55.112Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T17:46:01.120Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T17:59:38.384Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T17:59:42.498Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:02:35.226Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:09:44.115Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:09:56.051Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:11:58.598Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:12:16.073Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:14:56.383Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:15:08.273Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:17:12.145Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:17:14.948Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:17:50.195Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:17:52.729Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:20:09.141Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:21:10.957Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:21:18.139Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:21:19.766Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:21:50.717Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:22:51.997Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:23:03.338Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:23:11.778Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:23:28.877Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:23:53.106Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:24:19.186Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:24:28.211Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:25:08.128Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:27:08.557Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:27:28.118Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:27:54.606Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:28:14.517Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:28:26.755Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:29:01.258Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:30:27.112Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:30:36.998Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:30:48.078Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:31:06.278Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:31:17.561Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:34:16.493Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:36:15.118Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:37:01.831Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:37:25.500Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:41:09.912Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:43:55.961Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:44:29.356Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:45:16.265Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:47:07.715Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:48:11.720Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:48:17.863Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:56:44.630Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T18:59:33.558Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:00:06.873Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:02:57.971Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:07:00.452Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:07:12.392Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:07:19.074Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:08:26.024Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:10:33.248Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:11:24.752Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:12:50.630Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:22:07.232Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:22:23.428Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:22:33.012Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:22:42.354Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:26:34.030Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:26:55.115Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:26:59.754Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:27:40.971Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:28:10.760Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:28:27.610Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:29:35.129Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:29:50.321Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:31:10.671Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:32:10.945Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:32:22.785Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:45:40.570Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-27T19:45:57.555Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T02:23:35.532Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T02:27:47.728Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T02:27:54.240Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T02:35:37.241Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T02:37:23.031Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T02:39:17.547Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T02:39:26.381Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T02:39:35.361Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T02:39:44.963Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T02:39:47.829Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T02:40:28.745Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T02:41:37.755Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T02:41:44.259Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T02:43:13.658Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T02:50:53.760Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T02:52:13.472Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T02:52:19.373Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T02:56:44.638Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T02:58:59.030Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:00:59.461Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:01:02.053Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:01:07.656Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:01:23.681Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:04:18.130Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:04:27.436Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:04:56.183Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:06:19.022Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:06:24.214Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:07:59.909Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:08:02.818Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:08:12.684Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:08:50.204Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:11:45.452Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:13:15.638Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:15:25.201Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:15:28.436Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:15:30.096Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:25:01.172Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:25:03.535Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:46:17.441Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:46:37.806Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T03:46:43.011Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T11:45:47.879Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T11:46:09.148Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T12:53:48.643Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T12:54:14.631Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T12:55:59.378Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T12:56:38.588Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T12:57:42.534Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T12:58:00.760Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T12:58:07.152Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T12:58:32.292Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T12:58:41.776Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T12:58:44.278Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T12:58:49.904Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T12:58:57.429Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T12:59:01.498Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T12:59:02.718Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T12:59:03.503Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:17:28.020Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:17:29.631Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:18:10.786Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:19:25.146Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:19:33.594Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:19:39.479Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:20:00.184Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:20:04.096Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:20:05.671Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:21:04.196Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:21:48.465Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:21:52.495Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:21:53.647Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:22:13.675Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:22:23.020Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:22:52.290Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:26:19.960Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:26:52.921Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:27:14.568Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:29:19.959Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:30:15.388Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:31:25.454Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:31:46.869Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:32:56.597Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-28T18:33:21.763Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T02:27:35.022Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T02:31:46.103Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T03:00:35.173Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T03:02:48.689Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T03:09:34.856Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T03:10:20.639Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T03:15:24.161Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T03:20:51.605Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T03:51:23.637Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T03:52:24.783Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T03:52:35.318Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T03:52:39.793Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T03:54:08.901Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T03:58:07.057Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T03:58:21.034Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T03:58:41.770Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T03:58:58.639Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T03:59:10.298Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T03:59:20.112Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:07:07.836Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:15:04.972Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:15:18.103Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:15:38.146Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:15:46.915Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:16:39.680Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:17:31.535Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:17:51.202Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:18:02.519Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:22:01.683Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:22:14.605Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:22:16.037Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:22:17.402Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:27:21.120Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:27:46.020Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:27:54.399Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:28:31.142Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:29:27.446Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:29:51.687Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:29:54.403Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:30:18.944Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:31:25.034Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:33:10.867Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:33:22.724Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:33:35.266Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:33:49.865Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:34:05.368Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:34:31.420Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:34:40.501Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:35:13.255Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:35:22.836Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:35:32.930Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:35:56.226Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:36:18.360Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:36:32.796Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:36:40.532Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:36:43.489Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:36:54.084Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:36:57.859Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:37:04.369Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:37:17.310Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:37:26.285Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T04:39:10.556Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T07:53:14.127Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T07:54:15.327Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T07:54:28.526Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T07:54:51.880Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T08:03:09.409Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T08:05:19.452Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T08:05:57.527Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T08:06:04.811Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T08:06:10.394Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T08:06:13.779Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T08:06:31.340Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T08:06:34.458Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T08:07:14.104Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T08:07:36.289Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T08:07:52.548Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T10:08:29.953Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T10:08:34.826Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T10:08:42.436Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T10:09:12.778Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T10:09:14.664Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T10:09:41.800Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T10:13:16.129Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T10:13:29.404Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T10:13:42.577Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T10:13:56.792Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T10:14:02.566Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T10:39:18.999Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T10:39:29.004Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T10:39:51.645Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T10:48:20.001Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T10:55:07.073Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T10:55:50.110Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T10:55:59.034Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:06:26.099Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:08:51.216Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:08:59.819Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:10:54.647Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:13:27.205Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:13:36.331Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:14:01.645Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:14:08.106Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:22:28.479Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:22:55.242Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:23:09.739Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:26:35.476Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:26:44.238Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:28:13.883Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:28:16.307Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:28:27.486Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:28:55.564Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:37:49.836Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:37:53.855Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:38:10.226Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:42:42.773Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:42:47.485Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:42:48.401Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:43:02.589Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:43:13.820Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:43:34.166Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:44:26.256Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:44:59.977Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:48:46.578Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:49:11.551Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:49:33.067Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:50:06.273Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:50:50.205Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:50:55.281Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T11:51:03.510Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T12:03:16.993Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T12:03:19.873Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T12:03:21.983Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T12:04:39.210Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T12:04:52.534Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T12:05:08.608Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T12:05:33.747Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T12:05:50.743Z"}
+{"level":"info","message":"MongoDB connected to database: cdwConnect","service":"db-service","timestamp":"2025-05-29T12:20:59.823Z"}
+{"level":"error","message":" MongoDB connection error: Cannot create property 'Symbol(level)' on string ' MongoDB connected'","service":"db-service","stack":"TypeError: Cannot create property 'Symbol(level)' on string ' MongoDB connected'\n    at DerivedLogger.log (/Users/thangaakilan/Documents/ACE-25-NODEJS/cdwConnect/node_modules/winston/lib/winston/logger.js:214:20)\n    at connectDB (file:///Users/thangaakilan/Documents/ACE-25-NODEJS/cdwConnect/utils/db.js:11:14)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async file:///Users/thangaakilan/Documents/ACE-25-NODEJS/cdwConnect/index.js:16:1","timestamp":"2025-05-30T05:21:36.765Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T05:21:46.676Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T05:21:48.133Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T05:21:53.186Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T05:21:55.370Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T05:22:23.799Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T05:22:39.713Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T05:22:42.944Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T05:22:54.288Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T05:24:16.412Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T08:07:16.138Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T08:09:39.841Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T08:17:21.144Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T08:21:44.094Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T08:34:52.182Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T08:40:48.893Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T08:41:20.872Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T08:41:35.025Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T08:42:15.706Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T08:42:54.357Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T08:42:57.031Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T08:43:11.416Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T08:44:41.827Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T08:45:03.488Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T08:45:33.241Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T08:46:47.839Z"}
+{"code":"ETIMEOUT","hostname":"_mongodb._tcp.cluster0.wvbmmzh.mongodb.net","level":"error","message":" MongoDB connection error: querySrv ETIMEOUT _mongodb._tcp.cluster0.wvbmmzh.mongodb.net","service":"db-service","stack":"Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.wvbmmzh.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)","syscall":"querySrv","timestamp":"2025-05-30T09:00:04.376Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T09:00:29.232Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T09:01:33.182Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T09:01:43.634Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-05-30T10:29:06.462Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T05:55:35.202Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T06:11:14.126Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T06:15:53.980Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T06:15:55.925Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T06:30:22.904Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T06:30:25.500Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T06:30:26.676Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T06:31:44.545Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T06:32:08.691Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T06:33:10.039Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T06:33:26.417Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T06:33:29.727Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T06:33:50.621Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T06:33:56.234Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T06:33:57.197Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T06:34:40.165Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T06:34:59.087Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T06:54:51.804Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T06:58:12.361Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T06:58:23.136Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T06:58:38.805Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T06:59:15.304Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:00:31.444Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:08:33.076Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:08:48.506Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:25:51.614Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:26:00.554Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:27:43.993Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:35:59.306Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:36:34.234Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:38:11.055Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:39:14.343Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:39:17.078Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:39:53.829Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:40:04.927Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:40:36.099Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:40:51.759Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:41:10.980Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:41:41.335Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:41:47.201Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:44:06.159Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:44:22.102Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:45:09.584Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:45:18.574Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:45:22.332Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:45:40.109Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:45:42.813Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:46:15.563Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T07:55:23.764Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T15:24:42.074Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T15:29:36.880Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T15:29:44.715Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T15:29:53.655Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T15:33:18.359Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T15:35:16.250Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T15:35:25.180Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T15:37:13.525Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T15:37:25.936Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:04:44.592Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:05:23.482Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:06:09.502Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:06:16.486Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:06:17.845Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:06:30.836Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:06:34.686Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:06:35.680Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:15:37.416Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:23:51.853Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:24:47.904Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:27:10.724Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:27:14.878Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:27:44.625Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:28:44.908Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:28:57.194Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:30:25.650Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:30:39.407Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:30:44.068Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:30:48.475Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:34:27.657Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:36:30.154Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T16:36:42.386Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T17:53:17.800Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T17:56:30.854Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T17:58:57.631Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T17:59:02.385Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T17:59:56.789Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T18:03:16.054Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T18:03:58.802Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T18:04:11.236Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-01T18:15:35.642Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-02T08:19:50.128Z"}
+{"level":"info","message":"Inserted a Post titled NodeJS Contribution","service":"db-service","timestamp":"2025-06-02T08:20:49.567Z"}
+{"level":"info","message":"Fetched posts from Posts Collection","service":"db-service","timestamp":"2025-06-02T08:20:59.686Z"}
+{"level":"info","message":"Fetched posts from Posts Collection","service":"db-service","timestamp":"2025-06-02T08:21:31.559Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-02T09:10:51.830Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-02T13:00:33.344Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-02T13:02:44.566Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-02T13:02:48.026Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-02T16:44:26.908Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-02T16:44:34.702Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-02T16:44:44.031Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-02T17:07:27.006Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-02T17:08:46.786Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-02T17:09:04.207Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-02T17:18:20.567Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-02T17:18:38.292Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-02T17:18:40.292Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-02T17:22:42.943Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-02T17:22:49.177Z"}
+{"level":"info","message":" MongoDB connected","service":"db-service","timestamp":"2025-06-02T17:24:15.758Z"}
